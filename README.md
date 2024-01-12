@@ -1,5 +1,7 @@
 # Surface TicTacToe Example
 
+Example moved to https://github.com/ElixirCL/surface-practice
+
 React Tic Tac Toe Tutorial Implemented in Surface UI (0.11)
 
 - https://react.dev/learn/tutorial-tic-tac-toe
